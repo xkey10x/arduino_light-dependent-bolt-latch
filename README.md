@@ -1,6 +1,6 @@
-# ** arduino_light-dependent-bolt-latch **
+# **arduino_light-dependent-bolt-latch**
 
-## ** THIS IS AN UNFINISHED WORK IN PROGRESS  **
+## THIS IS AN UNFINISHED WORK IN PROGRESS
 
 Using Arduino, measure the amount of light present using a photocell. In response to daylight levels, a dc-motor configured 
 in such a way mechanically to operate a sliding barrel-bolt back and forth (lock/unlock) will be triggered.
